@@ -8,8 +8,11 @@
     ```bash
     source venv/bin/activate 
     ```
-
 3. Install Packages
     ```bash
     pip install -r requirements.txt
+    ```
+4. Deactivate `venv` (when done working)
+    ```bash
+    deactivate
     ```
